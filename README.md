@@ -9,6 +9,18 @@ Through these two models, we will be able to determine which patrons are prime t
 
 This solves three problems:
 
-1) Identifying new prospects to approach.
-2) Providing a reasonable ask estimate for that particular prospect.
-3) Determine how to move specific patrons who are not ready for an ask to move into that position (Example: If patron xyz were to attend one more concert, they would be 30% more likely to make a donation...)
+1. Identifying new prospects to approach.
+2. Providing a reasonable ask estimate for that particular prospect.
+3. Determine how to move specific patrons who are not ready for an ask to move into that position (Example: If patron xyz were to attend one more concert, they would be 30% more likely to make a donation...)
+
+# Reports Used
+
+1. Enhanced fund activity report (donor)
+2. PS Ticket Detail (ticketing)
+3. PS Attribute Report (GG&A stuff)
+
+#### Attributes included from GG&A
+1. GG+A - Age
+2. GG+A - estimated household income
+3. GG+A - length of residence
+4. GG+A - propensity to give
